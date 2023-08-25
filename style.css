@@ -47,13 +47,15 @@
 }
 .item {
     margin: 20px;
-    border: 1px solid #ccc;
+    box-shadow:0 0 10px #000000;
     border-radius: 5px;
     padding: 10px;
 }
 .item img{
     width:auto ;
-    height:80px;}
+    height:80px;
+    border-radius: 5px;
+}
 
 .item button{
 padding: 5px;
